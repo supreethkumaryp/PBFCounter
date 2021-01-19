@@ -1,0 +1,19 @@
+# Eclipse CDT-specific (C/C++ Development Tooling)
+.metadata
+.cproject
+.project
+.settings/
+
+# Project Build Files
+**/Build/
+**/*.bak
+**/*.swp
+**/.~lock.*
+
+# Compiled Object/lib files
+**/*.o
+**/*.a
+**/*.so
+
+# Executable/Program
+**/PBFCounter
